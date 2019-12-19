@@ -1,0 +1,37 @@
+{
+    "name": "HAPI-FHIR",
+    "description": "<p>This is the homepage for the HAPI-FHIR library. We are developing an open-source implementation of the FHIR specification in Java. FHIR (Fast Healthcare Interoperability Resources) is a specification for exchanging healthcare data in a modern and developer friendly way<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hapi_fhir_banner.png",
+    "tags": [
+        "fhir",
+        "have api",
+        "healthcare"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hapifhir\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HAPI-FHIR",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/hapi_fhir_banner.png",
+            "humanURL": "http:\/\/hapifhir.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hapifhir-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/hapifhir.io"
+        }
+    ]
+}
