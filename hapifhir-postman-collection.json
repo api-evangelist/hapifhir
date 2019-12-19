@@ -1,0 +1,12 @@
+{
+    "id": "8de42d316e65ac03453b1656bf8b1923",
+    "name": "HAPI-FHIR",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": []
+}
